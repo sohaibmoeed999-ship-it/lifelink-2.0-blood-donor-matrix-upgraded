@@ -1,9 +1,0 @@
-{
-  "cleanUrls": true,
-  "rewrites": [
-    {
-      "source": "/api/:path*",
-      "destination": "https://YOUR_BACKEND_LIVE_API_URL/api/:path*"
-    }
-  ]
-}
